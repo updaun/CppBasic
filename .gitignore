@@ -1,0 +1,11 @@
+.vscode
+
+*.dll
+*.exe
+*.o
+*.so
+*.com
+*.class
+
+*.log
+logs/
